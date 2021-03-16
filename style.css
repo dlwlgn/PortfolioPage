@@ -1,0 +1,55 @@
+.navbar{
+    z-index: 9;
+}
+
+.carousel-caption{
+    color:white;
+    /* margin-right: 30%; */
+}
+
+.d-block{
+    height: 100vh;
+}
+
+.bar-C{
+    width: 50%;
+    background-color: #30A9DE;
+}
+.bar-Cpp{
+    width: 70%;
+}
+.bar-Cs{
+    width: 40%;
+    background-color: #9055A2;
+}
+.bar-Py{
+    width: 25%;
+    background-color: #C5C6B6;
+}
+.bar-Java{
+    width: 30%;
+    background-color: #E53A40;
+}
+
+.bar-Js{
+    width: 70%;
+    background-color: #EFDC05;
+}
+
+.mb-2{
+    width: 94vw;
+}
+
+.lang-img{
+    width: 3vw;
+}
+
+.language-wrapper{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 3vh;
+}
+
+.progress-wrapper{
+    margin-left: 15px;
+}
